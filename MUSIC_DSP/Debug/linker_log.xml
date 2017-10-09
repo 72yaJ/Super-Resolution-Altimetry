@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/VisualDSP 5.0/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Fri Nov 21 18:08:20 2014
+'>
+<MSG id='02CF9B20' mid='li1021' type='Error' >
+<TEXT><![CDATA[The following symbols referenced in processor 'P0' could not be resolved:
+        'CFB_SDRAM_1CH1DIS_LEN' referenced from '.\Debug\main_cfb.doj']]></TEXT>
+</MSG>
+</DOCUMENT>
